@@ -1,0 +1,487 @@
+{
+  "student": "Чаговец Валерия Ярославовна",
+  "group": "ИНФА-231",
+  "variant": 13,
+  "corpus_source": "books.toscrape.com + синтетический корпус",
+  "corpus_total": 1400,
+  "sample_size": 1000,
+  "random_state": 113,
+  "min_len": 4,
+  "vocabulary_size": 18764,
+  "build_time_seconds": 0.1839131799997631,
+  "query": "love story",
+  "query_terms": [
+    "love",
+    "story"
+  ],
+  "main_operator": "AND",
+  "and_results_count": 64,
+  "and_time_seconds": 1.3545999536290765e-05,
+  "or_results_count": 398,
+  "or_time_seconds": 2.9132999770808965e-05,
+  "linear_search_time_seconds": 0.10753195500046786,
+  "index_speedup": 13501.407422182787,
+  "vocabulary_by_min_len": {
+    "1": 19869,
+    "2": 19844,
+    "3": 19657,
+    "4": 18764,
+    "5": 17114
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4374,
+    "250": 8121,
+    "500": 12838,
+    "1000": 18764
+  },
+  "results": [
+    {
+      "doc_id": 19,
+      "source_id": 693,
+      "title": "Wuthering Heights",
+      "genre": "",
+      "price": 17.73
+    },
+    {
+      "doc_id": 40,
+      "source_id": 393,
+      "title": "The Improbability of Love",
+      "genre": "",
+      "price": 59.45
+    },
+    {
+      "doc_id": 48,
+      "source_id": 620,
+      "title": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+      "genre": "",
+      "price": 48.13
+    },
+    {
+      "doc_id": 89,
+      "source_id": 352,
+      "title": "Searching for Meaning in Gailana",
+      "genre": "",
+      "price": 38.73
+    },
+    {
+      "doc_id": 137,
+      "source_id": 597,
+      "title": "The Fault in Our Stars",
+      "genre": "",
+      "price": 47.22
+    },
+    {
+      "doc_id": 140,
+      "source_id": 106,
+      "title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+      "genre": "",
+      "price": 29.69
+    },
+    {
+      "doc_id": 145,
+      "source_id": 458,
+      "title": "Silence in the Dark (Logan Point #4)",
+      "genre": "",
+      "price": 58.33
+    },
+    {
+      "doc_id": 171,
+      "source_id": 512,
+      "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+      "genre": "",
+      "price": 20.12
+    },
+    {
+      "doc_id": 190,
+      "source_id": 998,
+      "title": "1st to Die (Women&#39;s Murder Club #1)",
+      "genre": "",
+      "price": 53.98
+    },
+    {
+      "doc_id": 210,
+      "source_id": 880,
+      "title": "Annie on My Mind",
+      "genre": "",
+      "price": 36.83
+    },
+    {
+      "doc_id": 231,
+      "source_id": 173,
+      "title": "Romero and Juliet: A Tragic Tale of Love and Zombies",
+      "genre": "",
+      "price": 36.94
+    },
+    {
+      "doc_id": 245,
+      "source_id": 891,
+      "title": "The Course of Love",
+      "genre": "",
+      "price": 16.78
+    },
+    {
+      "doc_id": 257,
+      "source_id": 136,
+      "title": "The Wedding Dress",
+      "genre": "",
+      "price": 24.12
+    },
+    {
+      "doc_id": 258,
+      "source_id": 840,
+      "title": "Girl in the Blue Coat",
+      "genre": "",
+      "price": 46.83
+    },
+    {
+      "doc_id": 264,
+      "source_id": 541,
+      "title": "At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+      "genre": "",
+      "price": 29.93
+    },
+    {
+      "doc_id": 282,
+      "source_id": 738,
+      "title": "The Lover&#39;s Dictionary",
+      "genre": "",
+      "price": 58.09
+    },
+    {
+      "doc_id": 291,
+      "source_id": 561,
+      "title": "Tell the Wolves I&#39;m Home",
+      "genre": "",
+      "price": 50.96
+    },
+    {
+      "doc_id": 298,
+      "source_id": 203,
+      "title": "Chasing Heaven: What Dying Taught Me About Living",
+      "genre": "",
+      "price": 37.8
+    },
+    {
+      "doc_id": 328,
+      "source_id": 127,
+      "title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+      "genre": "",
+      "price": 54.0
+    },
+    {
+      "doc_id": 330,
+      "source_id": 748,
+      "title": "The Goldfinch",
+      "genre": "",
+      "price": 43.58
+    },
+    {
+      "doc_id": 359,
+      "source_id": 641,
+      "title": "A Girl&#39;s Guide to Moving On (New Beginnings #2)",
+      "genre": "",
+      "price": 31.3
+    },
+    {
+      "doc_id": 370,
+      "source_id": 542,
+      "title": "A Summer In Europe",
+      "genre": "",
+      "price": 44.34
+    },
+    {
+      "doc_id": 383,
+      "source_id": 495,
+      "title": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+      "genre": "",
+      "price": 46.33
+    },
+    {
+      "doc_id": 416,
+      "source_id": 326,
+      "title": "Cell",
+      "genre": "",
+      "price": 20.29
+    },
+    {
+      "doc_id": 426,
+      "source_id": 853,
+      "title": "Dead Wake: The Last Crossing of the Lusitania",
+      "genre": "",
+      "price": 39.24
+    },
+    {
+      "doc_id": 436,
+      "source_id": 1133,
+      "title": "Library Put An",
+      "genre": "Music",
+      "price": 37.37
+    },
+    {
+      "doc_id": 437,
+      "source_id": 775,
+      "title": "Spilled Milk: Based on a True Story",
+      "genre": "",
+      "price": 49.51
+    },
+    {
+      "doc_id": 439,
+      "source_id": 514,
+      "title": "Sit, Stay, Love",
+      "genre": "",
+      "price": 20.9
+    },
+    {
+      "doc_id": 470,
+      "source_id": 1118,
+      "title": "Jagcecu Rhythm Fyle With",
+      "genre": "Mystery",
+      "price": 56.82
+    },
+    {
+      "doc_id": 536,
+      "source_id": 409,
+      "title": "Exit, Pursued by a Bear",
+      "genre": "",
+      "price": 51.34
+    },
+    {
+      "doc_id": 553,
+      "source_id": 400,
+      "title": "Mothering Sunday",
+      "genre": "",
+      "price": 13.34
+    },
+    {
+      "doc_id": 597,
+      "source_id": 593,
+      "title": "The Little Paris Bookshop",
+      "genre": "",
+      "price": 24.73
+    },
+    {
+      "doc_id": 599,
+      "source_id": 727,
+      "title": "The Red Tent",
+      "genre": "",
+      "price": 35.66
+    },
+    {
+      "doc_id": 611,
+      "source_id": 633,
+      "title": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+      "genre": "",
+      "price": 32.35
+    },
+    {
+      "doc_id": 648,
+      "source_id": 810,
+      "title": "Lila (Gilead #3)",
+      "genre": "",
+      "price": 12.47
+    },
+    {
+      "doc_id": 660,
+      "source_id": 1188,
+      "title": "Map Te Dulmu",
+      "genre": "Thriller",
+      "price": 32.34
+    },
+    {
+      "doc_id": 666,
+      "source_id": 1103,
+      "title": "Teacher At Grammar",
+      "genre": "History",
+      "price": 27.38
+    },
+    {
+      "doc_id": 668,
+      "source_id": 432,
+      "title": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+      "genre": "",
+      "price": 54.81
+    },
+    {
+      "doc_id": 686,
+      "source_id": 1099,
+      "title": "On Cisywij",
+      "genre": "Childrens",
+      "price": 26.53
+    },
+    {
+      "doc_id": 707,
+      "source_id": 537,
+      "title": "Counted With the Stars (Out from Egypt #1)",
+      "genre": "",
+      "price": 17.97
+    },
+    {
+      "doc_id": 711,
+      "source_id": 84,
+      "title": "Patience",
+      "genre": "",
+      "price": 10.16
+    },
+    {
+      "doc_id": 722,
+      "source_id": 676,
+      "title": "Gone with the Wind",
+      "genre": "",
+      "price": 32.49
+    },
+    {
+      "doc_id": 728,
+      "source_id": 163,
+      "title": "The Argonauts",
+      "genre": "",
+      "price": 10.93
+    },
+    {
+      "doc_id": 730,
+      "source_id": 468,
+      "title": "Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent&#39;s Expectations",
+      "genre": "",
+      "price": 25.06
+    },
+    {
+      "doc_id": 773,
+      "source_id": 1363,
+      "title": "Tumozgenil Reading Bafafgokty Nir",
+      "genre": "Classics",
+      "price": 29.07
+    },
+    {
+      "doc_id": 776,
+      "source_id": 794,
+      "title": "Persepolis: The Story of a Childhood (Persepolis #1-2)",
+      "genre": "",
+      "price": 39.13
+    },
+    {
+      "doc_id": 783,
+      "source_id": 873,
+      "title": "Best of My Love (Fool&#39;s Gold #20)",
+      "genre": "",
+      "price": 27.41
+    },
+    {
+      "doc_id": 820,
+      "source_id": 153,
+      "title": "The Kite Runner",
+      "genre": "",
+      "price": 41.82
+    },
+    {
+      "doc_id": 838,
+      "source_id": 408,
+      "title": "Grey (Fifty Shades #4)",
+      "genre": "",
+      "price": 48.49
+    },
+    {
+      "doc_id": 842,
+      "source_id": 433,
+      "title": "Nap-a-Roo",
+      "genre": "",
+      "price": 25.08
+    },
+    {
+      "doc_id": 851,
+      "source_id": 984,
+      "title": "Eat, Pray, Love",
+      "genre": "",
+      "price": 51.32
+    },
+    {
+      "doc_id": 868,
+      "source_id": 211,
+      "title": "Amy Meets the Saints and Sages",
+      "genre": "",
+      "price": 18.46
+    },
+    {
+      "doc_id": 874,
+      "source_id": 46,
+      "title": "We Love You, Charlie Freeman",
+      "genre": "",
+      "price": 50.27
+    },
+    {
+      "doc_id": 877,
+      "source_id": 420,
+      "title": "Without Shame",
+      "genre": "",
+      "price": 48.27
+    },
+    {
+      "doc_id": 878,
+      "source_id": 345,
+      "title": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+      "genre": "",
+      "price": 56.48
+    },
+    {
+      "doc_id": 897,
+      "source_id": 714,
+      "title": "The Undomestic Goddess",
+      "genre": "",
+      "price": 45.75
+    },
+    {
+      "doc_id": 901,
+      "source_id": 262,
+      "title": "Still Life with Bread Crumbs",
+      "genre": "",
+      "price": 26.41
+    },
+    {
+      "doc_id": 911,
+      "source_id": 384,
+      "title": "Eleanor &amp; Park",
+      "genre": "",
+      "price": 56.51
+    },
+    {
+      "doc_id": 922,
+      "source_id": 972,
+      "title": "Kitchens of the Great Midwest",
+      "genre": "",
+      "price": 57.2
+    },
+    {
+      "doc_id": 926,
+      "source_id": 453,
+      "title": "The High Mountains of Portugal",
+      "genre": "",
+      "price": 51.15
+    },
+    {
+      "doc_id": 939,
+      "source_id": 45,
+      "title": "When We Collided",
+      "genre": "",
+      "price": 31.77
+    },
+    {
+      "doc_id": 947,
+      "source_id": 80,
+      "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+      "genre": "",
+      "price": 13.61
+    },
+    {
+      "doc_id": 949,
+      "source_id": 344,
+      "title": "A Study in Scarlet (Sherlock Holmes #1)",
+      "genre": "",
+      "price": 16.73
+    },
+    {
+      "doc_id": 968,
+      "source_id": 405,
+      "title": "Lab Girl",
+      "genre": "",
+      "price": 40.85
+    }
+  ]
+}
